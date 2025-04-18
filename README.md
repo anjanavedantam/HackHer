@@ -27,3 +27,7 @@ We used:
 - Integrate with real IoT smart fridges
 - Use more data to make better predictions
 - Give more food type options for the user
+
+
+Link to website: https://1ef5b17a505469f91d.gradio.live/
+Link to presentation: https://docs.google.com/presentation/d/1qML6rjxWInkkxt4hMz5YhLVwyVZwMfg4/edit#slide=id.g34d71247e21_0_0
